@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2a$10$T8M.o4r2vQ5tZ.X8s.F.h.z.p.y.v.D.k.L.j.c.B.w.N.x.A.a.O.S.U.Q.I.E.",
+    "resetToken": "8c35b85f-60d8-43d8-9ac0-99a7a2926c37",
+    "resetTokenExpiry": 1748508757022
+  },
+  {
+    "id": "2",
+    "name": "Salaar",
+    "email": "salaardevarada@gmail.com",
+    "password": "$2b$10$QQxTxBAzfj01qPlPH7Pe2eCIQYIk8HcZilxb5OBB2ARlEsxqIthfu",
+    "resetToken": null,
+    "resetTokenExpiry": null
+  }
+]
