@@ -79,7 +79,7 @@
 
             <div className="space-y-6">
               <p className="text-center text-gray-600 text-sm">
-                Enter your email address below and we'll send you a link to reset your password.
+                Enter your email address below and we&apos;ll send you a link to reset your password.
               </p>
 
               {/* Email Input Field */}
