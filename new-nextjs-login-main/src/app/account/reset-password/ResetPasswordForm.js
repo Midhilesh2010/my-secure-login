@@ -3,7 +3,8 @@
 
 import { useSearchParams } from 'next/navigation';
 import { useState, useEffect } from 'react';
-// ... other imports for your form like Link, react-icons, etc.
+import Link from 'next/link'; // <--- YOU NEED TO ADD THIS LINE
+// ... other imports for your form like react-icons, etc.
 
 export default function ResetPasswordForm() {
   const searchParams = useSearchParams();
